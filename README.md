@@ -1,4 +1,9 @@
 # hexlet-sicp
+Примеры и решения упражнений из курса SICP
+
+авт. Harold Abelson and Gerald Jay Sussman with Julie Sussman
+
+src: http://newstar.rinet.ru/~goga/sicp/sicp.pdf
 
 ## Requirements
 * Racket
